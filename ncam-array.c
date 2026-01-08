@@ -1,5 +1,5 @@
 #define MODULE_LOG_PREFIX "array"
-
+ 
 #include "globals.h"
 #include "ncam-string.h"
 
