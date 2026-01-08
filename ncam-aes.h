@@ -1,6 +1,6 @@
 #ifndef NCAM_AES_H_
 #define NCAM_AES_H_
-
+ 
 void aes_set_key(struct aes_keys *aes, char *key);
 bool aes_set_key_alloc(struct aes_keys **aes, char *key);
 void aes_decrypt(struct aes_keys *aes, uint8_t *buf, int32_t n);
