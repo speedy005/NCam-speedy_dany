@@ -1,6 +1,6 @@
 #ifndef MODULE_CCCAM_H_
 #define MODULE_CCCAM_H_
-
+ 
 // In this file put functions that are called outside of module-cccam.c and module-cccshare.c
 
 void cc_update_nodeid(void);
