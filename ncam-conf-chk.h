@@ -1,6 +1,6 @@
 #ifndef NCAM_CONF_CHK_H
 #define NCAM_CONF_CHK_H
-
+ 
 void chk_iprange(char *value, struct s_ip **base);
 void chk_caidtab(char *value, CAIDTAB *caidtab);
 void chk_caidvaluetab(char *value, CAIDVALUETAB *tab);
