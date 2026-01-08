@@ -1,6 +1,6 @@
 #ifndef NCAM_CLIENT_H_
 #define NCAM_CLIENT_H_
-
+ 
 /* Gets the client associated to the calling thread. */
 static inline struct s_client *cur_client(void)
 {
