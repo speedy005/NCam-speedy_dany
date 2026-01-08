@@ -1,5 +1,5 @@
 /* lzodefs.h -- architecture, OS and compiler specific defines
-
+ 
    This file is part of the LZO real-time data compression library.
 
    Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer
