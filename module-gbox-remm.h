@@ -1,6 +1,6 @@
 #ifndef MODULE_GBOX_REMM_H_
 #define MODULE_GBOX_REMM_H_
-
+ 
 #ifdef MODULE_GBOX
 
 #define MSG_REM_EMM 0x49BF
