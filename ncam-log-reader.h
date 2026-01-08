@@ -1,6 +1,6 @@
 #ifndef NCAM_LOG_READER_H_
 #define NCAM_LOG_READER_H_
-
+ 
 void rdr_log(struct s_reader *reader, char *, ...) __attribute__((format(printf, 2, 3)));
 void rdr_log_sensitive(struct s_reader *reader, char *, ...) __attribute__((format(printf, 2, 3)));
 
