@@ -1,6 +1,6 @@
 #ifndef NCAM_ARRAY_H
 #define NCAM_ARRAY_H
-
+ 
 /* Functions for manipulating dynamic arrays */
 
 /* Frees array data and reset array num_entries */
