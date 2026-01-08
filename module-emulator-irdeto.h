@@ -1,6 +1,6 @@
 #ifndef MODULE_EMULATOR_IRDETO_H
 #define MODULE_EMULATOR_IRDETO_H
-
+ 
 #ifdef WITH_EMU
 
 int8_t irdeto2_ecm(uint16_t caid, uint8_t *oecm, uint8_t *dw);
