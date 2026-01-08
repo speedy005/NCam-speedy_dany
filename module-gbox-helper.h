@@ -1,6 +1,6 @@
 #ifndef MODULE_GBOX_HELPER_H_
 #define MODULE_GBOX_HELPER_H_
-
+ 
 #ifdef MODULE_GBOX
 uint16_t gbox_get_caid(uint32_t caprovid);
 uint32_t gbox_get_provid(uint32_t caprovid);
