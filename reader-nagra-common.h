@@ -1,6 +1,6 @@
 #ifndef READER_NAGRA_COMMON_H_
 #define READER_NAGRA_COMMON_H_
-
+ 
 #define SYSTEM_NAGRA 0x1800
 #define SYSTEM_MASK 0xFF00
 
