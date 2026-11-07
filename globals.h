@@ -380,7 +380,7 @@ typedef uint8_t uint8_t;
 #define SCM_URL					"https://github.com/speedy005/NCam-speedy_dany/commit/master"
 #define WIKI_URL				"https://wiki.streamboard.tv/wiki"
 #define BOARD_URL				"https://board.streamboard.tv"
-#define CS_VERSION    "_speedy005_danlukyr1.3.7_2026_01_11968"
+#define CS_VERSION    "_speedy005_danlukyr1.3.8_2026_01_11968"
 #ifndef CS_REVISION
 #define CS_REVISION   "_speedy005_danluky_"
 #endif
